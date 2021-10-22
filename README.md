@@ -4,7 +4,7 @@
 
 <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdf">
-        <p>1st Place - Team Cabalytics - Pitch Deck: <a href="https://github.com/stefanrmmr/twitter_sentiment_lstm/blob/master/ProjectReport_TwitterLSTM_BruengerRummer_2021.pdf">View Presentation Slides</a>.</p>
+        <p>1st Place - Team Cabalytics - Pitch Deck: <a href="https://app.pitch.com/app/public/player/f190a4b1-e75f-4214-8029-d42ce60aaead/65866b63-9d22-4d81-8f40-f9301d495238">View Presentation Slides</a>.</p>
     </embed>
 </object>
 
